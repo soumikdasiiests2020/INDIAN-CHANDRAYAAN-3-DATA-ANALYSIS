@@ -1,5 +1,5 @@
 # INDIAN-CHANDRAYAAN-3-DATA-ANALYSIS
-Project Summary:
+##Project Summary:
 
 This Python code analyzes the mass and power budgets of a lunar lander mission, offering valuable insights into the design and feasibility of the mission. It utilizes the following libraries:
 
